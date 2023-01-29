@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica',cursive;
+}
+body{
+    overflow: hidden;
+}
+canvas{
+    background: white;
+    top: 0;
+    left: 0;
+}
+img{
+    display: none;
+}
